@@ -12,6 +12,7 @@ backend/.venv/
 
 # Node.js / Next.js
 node_modules/
+.pnpm-store/
 .next/
 out/
 *.tsbuildinfo
@@ -28,4 +29,3 @@ postgres_data/
 redis_data/
 neo4j_data/
 neo4j_logs/
-
